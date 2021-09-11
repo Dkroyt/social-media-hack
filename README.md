@@ -15,10 +15,10 @@
   <b> Contribute us</b>
 </p>
 <p align="center">
-<a href="https://www.paypal.com/paypalme2/Goyal827"><img title="GitHub version" src="https://https://github.com/Dkroyt/social-media-hack/edit/master/README.md
+<a href="https://www.paypal.com/paypalme2/ram gopal Kashyap"><img title="GitHub version" src="https://https://github.com/Dkroyt/social-media-hack/edit/master/README.md
 
 <p align="center">
-  <b> Want to Learn to Create Professional Phishing Page, Ethical Hacking, Bug Bounty visit - https://secnhack.in  </b>
+  <b> Want to Learn to Create Professional Phishing Page, Ethical Hacking, Bug Bounty visit - https://noobhacktube.in  </b>
 </p>
 
 <br>
@@ -33,8 +33,8 @@
 
 Signal Group
 * 
-wa.me/704608460.com
 
+https://wa.link/enhaqd
 
 
 ### TECHNIQUE
@@ -74,14 +74,14 @@ Through This Features You can Obtains the Credentails on Your Gmail Account or S
 
 
 ### INSTALLATION [ TERMUX APP --ANDROID ]
-* git clone https://github.com/Ignitetch/AdvPhishing.git
+* git clone https://github.com/dkroyt/AdvPhishing.git
 * cd AdvPhishing/
 * chmod 777 *
 * ./Android-Setup.sh
 * ./AdvPhishing.sh
 
 ### INSTALLATION [ KALI ]
-* git clone https://github.com/Ignitetch/AdvPhishing.git
+* git clone https://github.com/dkroyt/AdvPhishing.git
 * cd AdvPhishing/
 * chmod 777 *
 * ./Linux-Setup.sh
@@ -107,7 +107,7 @@ Through This Features You can Obtains the Credentails on Your Gmail Account or S
 
 ### Contact For Contribute & Issues 
 
-                                      EMAIL FOR ISSUES AND CONTRIBUTE : sg5479845@gmail.com
+                                      EMAIL FOR ISSUES AND CONTRIBUTE : dkroy8460@gmail.com
 
 ### DISCLAIMER
                                        TO BE USED FOR EDUCATIONAL PURPOSES ONLY
