@@ -2,14 +2,14 @@
   <a><img title="Built With Love" src="https://forthebadge.com/images/badges/uses-html.svg" ></a>
  </p>
 <p align="center">
-<a href="https://github.com/DKROY/AdvPhishing/releases"><img title="GitHub version" src="https://img.shields.io/badge/version-2.2-blue" ></a>  
+<a href="https://github.com/DKROY/DKPhishing/releases"><img title="GitHub version" src="https://img.shields.io/badge/version-2.2-blue" ></a>  
 </p>
 <img src="https://user-images.githubusercontent.com/55870659/92557010-185f5e80-f220-11ea-8d70-6a5208433ea6.png">
 <p align="center">
   <b> Follow on Social Media Platforms </b>
 </p>
 <p align="center">
-<a href="https://www.facebook.com/kashyap divyansh"><img title="GitHub version" src="https://img.shields.io/badge/-Facebook-blue" ></a><a href="https://www.youtube.com/channel/UCfBDWui9dSRbCmT32jf848Q"><img title="GitHub version" 
+<a https://instagram.com/itzzzx_anurag_?utm_medium=copy_link title="GitHub version" src="https://img.shields.io/badge/-Facebook-blue" ></a><a href="https://www.youtube.com/channel/UCfBDWui9dSRbCmT32jf848Q"><img title="GitHub version" 
 </p>
 <p align="center">
   <b> Contribute us</b>
